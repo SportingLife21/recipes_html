@@ -1,0 +1,53 @@
+body {
+    background-color: #e084d180;
+}
+
+.header {
+    text-align: center;
+    font-weight: 900;
+}
+
+.image {
+    text-align: center;
+}
+
+.imageFood {
+    height: 300px;
+    width: auto;
+}
+
+.list {
+    font-size: 18px;
+    background-color: #00000080;
+}
+
+.unorderedList.listItem {
+    color: blueviolet;
+}
+
+.orderedList {
+    color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.small {
+    font-size: 32px;
+    color: red;
+}
+
+.unorderedList.recipe {
+    color:hsl(212, 100%, 19%)
+}
+
+.paragraphDescription {
+    font-weight: 100;
+    font-size: 41px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: antiquewhite;
+    color: rgb(2, 255, 36);
+}
+
+.description.header {
+    color: #e084d180;
+}
+
